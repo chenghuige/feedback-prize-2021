@@ -3,5 +3,5 @@
 cd project/ai/feedback.   
 cd prepare.   
 sh prepare.sh.   
-cd ..  
+cd ../src.  
 ./main.py  
